@@ -1,12 +1,12 @@
 {
   "name": "オルカチャート",
   "short_name": "オルカチャート",
-  "description": "保険とお金の航路を、ひと目で",
+  "description": "わが家の保険とお金を、1冊に",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#F4F2EC",
-  "theme_color": "#165E83",
+  "background_color": "#E5EEF3",
+  "theme_color": "#10667F",
   "lang": "ja",
   "icons": [
     {

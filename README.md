@@ -2,7 +2,7 @@
 
 保険・ライフプラン・家計簿を1つにまとめた、スマホでもパソコンでも使えるWebアプリです。
 
-- 開く：https://mr-custard7.github.io/orcachart/
+- 開く：https://bv12032.github.io/orcachart/
 - iPhone：Safariで開いて「共有」→「ホーム画面に追加」
 - Android：Chromeで開いて「︙」→「ホーム画面に追加」
 
