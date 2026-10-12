@@ -1,5 +1,5 @@
 // ネットがなくても開けるように、アプリの本体をこの端末にしまっておく
-const CACHE = "orcachart-1";
+const CACHE = "orcachart-3";
 const FILES = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "icon-180.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES))); self.skipWaiting(); });
 self.addEventListener("activate", e => {
